@@ -1,6 +1,6 @@
 /*!
- * Signature Pad v3.0.0-beta.3 | https://github.com/szimek/signature_pad
- * (c) 2018 Szymon Nowak | Released under the MIT license
+ * Signature Pad v3.0.0-beta.3 | https://github.com/Dborah/e-signature
+ * Released under the MIT license
  */
 
 (function (global, factory) {
